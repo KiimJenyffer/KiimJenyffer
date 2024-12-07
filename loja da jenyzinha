@@ -13,15 +13,11 @@ h2{
                  }
  h3  {
   font-size:20px;
-     color:RebeccaPurple;
+     color:Orchid;
                  }       
  ol  {
   font-size:20px;
-     color:RebeccaPurple;
-                 }
-tr{
-  font-size:50px;
-     color:RebeccaPurple;
+     color:SteelBlue;
                  }
 </style>
 
