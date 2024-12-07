@@ -19,8 +19,8 @@ h2{
   font-size:20px;
      color:RebeccaPurple;
                  }
-table{
-  font-size:20px;
+tr{
+  font-size:50px;
      color:RebeccaPurple;
                  }
 </style>
