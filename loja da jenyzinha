@@ -19,7 +19,7 @@ h2{
   font-size:20px;
      color:RebeccaPurple;
                  }
-tr{
+table{
   font-size:20px;
      color:RebeccaPurple;
                  }
