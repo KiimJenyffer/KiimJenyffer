@@ -3,14 +3,22 @@
 <html>
 <head>
 <style>
+h1 {
+    font-size:30px;
+     color:seagreen;
+                 }
+h2{
+  
+     color:RebeccaPurple;
+                 }</style>
 
-<boby><em> <h1> <style="color: seagreen;"> ✨Louja Di Mouvies✨ </h1> </em>
+<boby><em> <h1> ✨Louja Di Mouvies✨ </h1> </em>
 <h2> <b> para todos e todes</b> </h2>
 <p> <mark> Doe seu móveis antigos e ganhe até 50% de desconto na compra de um novo</p></mark>
 <a href="https://www.friv.com/"target="_blank">visite o Friv</a>
 <h3>móvies novos</h3>
 <ol>
-<li> <style="colo: blue;"> Sófa em L</li>
+<li>  Sófa em L</li>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf49saftvz0JmmhQCfCfwAQFmFKaI3_PqG0w&s" alt "imagem de exemplo">
 <li> Proltrona na cores marrom e bege</li>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqsbjxjdRdYmpvBAZepm2r4SvMmqae8vi5bA&s">
