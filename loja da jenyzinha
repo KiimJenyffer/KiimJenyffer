@@ -8,9 +8,22 @@ h1 {
      color:seagreen;
                  }
 h2{
-  
+  font-size:20px;
      color:RebeccaPurple;
-                 }</style>
+                 }
+ h3  {
+  font-size:20px;
+     color:RebeccaPurple;
+                 }       
+ ol  {
+  font-size:20px;
+     color:RebeccaPurple;
+                 }
+thead{
+  font-size:20px;
+     color:RebeccaPurple;
+                 }
+</style>
 
 <boby><em> <h1> ✨Louja Di Mouvies✨ </h1> </em>
 <h2> <b> para todos e todes</b> </h2>
